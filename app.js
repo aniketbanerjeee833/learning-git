@@ -4,4 +4,6 @@ function login() {
 }
 function payment() {
   console.log("Payment");
+function navbar() {
+  console.log("Navbar");
 }
